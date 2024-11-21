@@ -167,7 +167,7 @@ main .page1 .best-review {
     margin-bottom: 30px;
 }
 main .page1 .review {
-    background: #e2e2e2;
+    background: #d4e1eb;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -191,7 +191,7 @@ main .page1 .review .more{
     align-items: center;
     column-gap: 10px;
     padding-left: 10px;
-    background: #bdbdbd;
+    background: #becad3;
     border-radius: 10px;
     height: 40px;
     width: 100%;
@@ -226,7 +226,7 @@ main .page1 .menus .block{
     font-size: 13px;
     height: 40px;
     width: 100%;
-    background: #bdbdbd;
+    background: #d4e1eb;
     color: #000;
     border-radius: 10px;
     transition: 0.5s;
